@@ -11,7 +11,7 @@ Currently working on --> NLP and its related Projects
 
 💞️ I’m looking to collaborate on any Data Science/ ML Projects
 
-# Please connect me on LinkedIn
+## Please connect me on LinkedIn
 
 <!--
 **dsaha21/dsaha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
