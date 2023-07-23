@@ -1,6 +1,6 @@
 ### Hi there 👋, I AM DRIPTO !! 
 #### A Software Engineer
-![A Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.pn)
+![A Software Engineer](https://github.com/dsaha21/dsaha21/blob/main/image-human-eye-process-scanning-mixed-media_641298-8910.avif)
 
 I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Science Engineering from KIIT University, keen to explore the world of technologies
 
@@ -14,13 +14,9 @@ Skills: Python, Java, Flask etc. (Please visit my Resume for more)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@dsaha21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/dripto-saha-187b301a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DriptoS21)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=@dsaha21)  
-
-![Profile views](https://gpvc.arturio.dev/@dsaha21)
-
 <!--
 **dsaha21/dsaha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/dsaha21/dsaha21/blob/main/GlaringTanCanary.webp
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
