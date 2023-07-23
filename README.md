@@ -1,5 +1,5 @@
-### Hi there 👋, I AM DRIPTO !! 
-#### A Software Engineer
+##                                Hi there 👋, I AM DRIPTO !! 
+####                                  A Software Engineer
 ![A Software Engineer](https://github.com/dsaha21/dsaha21/blob/main/image-human-eye-process-scanning-mixed-media_641298-8910.avif)
 
 I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Science Engineering from KIIT University, keen to explore the world of technologies
