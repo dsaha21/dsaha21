@@ -22,8 +22,8 @@ I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Scien
 
 Skills: Python, Java, Flask etc. (Please visit my Resume for more)
 
-- 🔭 I’m currently working on Computer and Machine Vision 
-- 🌱 I’m currently learning Camera and Optics, Machine Vision  
+- 🔭 I’m currently working on Computer Vision and Audio systems 
+- 🌱 I’m currently learning GANs, GenAI and depth of Audio ML   
 - 📫 How to reach me: Linkedin / Github 
 - ⚡ Fun fact: Keep interest in Quantum Computing, Astronomy, Open World Video Games 
 
