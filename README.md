@@ -24,10 +24,10 @@ I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Scien
 
 Skills: Python, Java, Flask etc. (Please visit my Resume for more)
 
-- 🔭 I’m currently working on Computer Vision and Audio systems 
-- 🌱 I’m currently learning GANs, GenAI and depth of Audio ML   
+- 🔭 I’m currently working on Computer Vision and End to End ML systems 
+- 🌱 I’m currently learning GANs and GenAI  
 - 📫 How to reach me: Linkedin / Github 
-- ⚡ Fun fact: Keep interest in Quantum Computing, Astronomy, Open World Video Games 
+- ⚡ Fun fact: I Keep interest in Quantum Computing, Astronomy, Open World Video Games. Also a human being gets an avg of 4200-4500 weeks during their lifetime. Make everyday count 
 
 
 <!--
