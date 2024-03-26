@@ -25,7 +25,7 @@ I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Scien
 Skills: Python, Java, Flask etc. (Please visit my Resume for more)
 
 - 🔭 I’m currently working on Computer Vision and End to End ML systems 
-- 🌱 I’m currently learning AUTOGENs, <a href="https://github.com/HIPS/autograd">Autograd</a> and NERF  
+- 🌱 I’m currently learning AUTOGENs, <a href="https://github.com/HIPS/autograd">Autograd</a>, PointClouds, Open3D  
 - 📫 How to reach me: Linkedin / Github 
 - ⚡ Fun fact: I Keep interest in Quantum Computing, Astronomy, Open World Video Games. Also a human being gets an avg of 4200-4500 weeks during their lifetime. Make everyday count 
 
