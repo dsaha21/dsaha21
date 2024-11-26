@@ -20,7 +20,7 @@
 
 ## About Me:
 
-I am from Kolkata, WB, India. A BTech engineer in Electronics and Computer Science Engineering from KIIT University, keen to explore the world of technologies
+A BTech engineer in Electronics and Computer Science Engineering from KIIT University, keen to explore the world of technologies
 
 Skills: Python, Java, C, Flask etc. (Please visit my Resume for more)
 
