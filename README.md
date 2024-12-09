@@ -25,7 +25,7 @@ A BTech engineer in Electronics and Computer Science Engineering from KIIT Unive
 Skills: Python, Java, C, Flask etc. (Please visit my Resume for more)
 
 - 🔭 I’m currently working on CV systems, Transformer based SLMs, Traffic Net 3D (2D->3D bboxes)  
-- 🌱 I’m currently learning Bayesian Nets, RecSys and Camera Calliberation
+- 🌱 I’m currently learning to work with LLM agents(SmolLM2) and 3D bbox with tracking
 - 📫 How to reach me: Linkedin / Github 
 - ⚡ Fun fact: I Keep interest in Quantum Computing, Astronomy, Open World Video Games. Also a human being gets an avg of 4200-4500 weeks during their lifetime. Make everyday count 
 
