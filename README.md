@@ -24,8 +24,8 @@ A BTech engineer in Electronics and Computer Science Engineering from KIIT Unive
 
 Skills: Python, Java, C, Flask etc. (Please visit my Resume for more)
 
-- 🔭 I’m currently working on CV systems, Transformer based SLMs and LLM agents(SmolLM2)  
-- 🌱 I’m currently learning advanced JAVA and System Design(LLDs)
+- 🔭 I’m currently working on CV systems and basic frontend and backend components. 
+- 🌱 I’m currently learning advanced JAVA, typescript and System Design(LLDs)
 - 📫 How to reach me: Linkedin / Github 
 - ⚡ Fun fact: I Keep interest in Quantum Computing, Astronomy, Open World Video Games. Also a human being gets an avg of 4200-4500 weeks during their lifetime. Make everyday count 
 
