@@ -2,8 +2,13 @@
 <h3 align='center'>A Software Engineer </h3>
 <h4 align='center'><a href="https://dsaha21.github.io/" target="_blank">MY PORTFOLIO</a></h4>
 <!-- <p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p> -->
+
 <p align="center">
     <!-- <img src="dsaha21-github-card-small.png" /> -->
+</p>
+
+<p align="center">
+    <img src="dsaha21-gitfut.png" width="200" height="400"/>
 </p>
 
 <br>
