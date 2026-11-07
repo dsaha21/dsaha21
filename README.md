@@ -46,6 +46,10 @@ A BTech engineer in Electronics and Computer Science Engineering from KIIT Unive
  © 2026 [Dripto Saha]
 
 <!--
+For Theme and Stat Cards
+Required to deploy -> Cron job -> https://github-stats-extended.vercel.app/frontend/docs/deploy/
+
+
 **dsaha21/dsaha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/dsaha21/dsaha21/blob/main/GlaringTanCanary.webp
 Here are some ideas to get you started:
